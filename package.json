@@ -1,0 +1,24 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000e\u0000b\u0000p\u0000a\u0000c\u0000k\u0000-\u0000c\u0000o\u0000n\u0000f\u0000i\u0000g\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanveerisonline/webpack-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanveerisonline/webpack-config/issues"
+  },
+  "homepage": "https://github.com/tanveerisonline/webpack-config#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
